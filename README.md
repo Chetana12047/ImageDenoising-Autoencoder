@@ -189,6 +189,22 @@ demonstrates:
 
 ---
 
+## Results
+
+### Original Images
+
+![Original Images](assets/original_images.png)
+
+### Noisy Images
+
+![Noisy Images](assets/noisy_images.png)
+
+### Denoised Images
+
+![Denoised Images](assets/denoised_images.png)
+
+---
+
 ## Technologies Used
 
 - Python
